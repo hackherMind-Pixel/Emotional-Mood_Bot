@@ -25,9 +25,11 @@ A command-line interface (CLI) tool built with **Rust** that interacts with user
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/hackherMind-Pixel/Emotional-Mood_Bot.git
-   cd rust-mood-bot
+   cd Emotional-Mood_Bot
+   
 2.Run the application:
-command:cargo run
+command:cargo run<img width="1496" height="761" alt="live Bot" src="https://github.com/user-attachments/assets/96c6c1bd-dd3b-4b5c-8efb-60e077ad5e91" />
+
 🖥️ Usage Example
 When you run the bot, it will prompt you for your name and a number corresponding to your mood:
 
@@ -42,6 +44,7 @@ Hey rnb! How are you feeling?
 ...
 9
 Mood Bot says: its okay to feel agitated, this moment will settle! 🤞
+
 🧠 Lessons Learned (Iteration & Testing)
 This project underwent a significant transformation during development:
 
