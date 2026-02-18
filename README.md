@@ -24,7 +24,7 @@ A command-line interface (CLI) tool built with **Rust** that interacts with user
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/hackherMind-Pixel/rust-mood-bot.git](https://github.com/hackherMind-Pixel/rust-mood-bot.git)
+   git clone https://github.com/hackherMind-Pixel/Emotional-Mood_Bot.git
    cd rust-mood-bot
 2.Run the application:
 command:cargo run
